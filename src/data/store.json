@@ -1729,49 +1729,6 @@
       "sort_order": 40
     },
     {
-      "id": "diary-pen-keychain-bottle-2",
-      "name": "Diary Pen Keychain Bottle 2.0",
-      "set_type": "4 in 1",
-      "category": "4-in-1",
-      "image": "/products/p15-2.jpg",
-      "gallery": [],
-      "tiers": [
-        {
-          "min": 1,
-          "label": "1 Pc",
-          "price": 699
-        },
-        {
-          "min": 5,
-          "label": "5 – 10 Pcs",
-          "price": 600
-        },
-        {
-          "min": 30,
-          "label": "30 – 50 Pcs",
-          "price": 550
-        },
-        {
-          "min": 100,
-          "label": "100 Pcs +",
-          "price": 530
-        }
-      ],
-      "includes": [
-        "Diary",
-        "Metal pen",
-        "Metal keychain",
-        "Card holder",
-        "Premium gift box"
-      ],
-      "description": "A diary, pen, keychain and sleek card holder. Built for networking and for leaving a lasting impression.",
-      "tags": [],
-      "badge": "",
-      "featured": false,
-      "active": true,
-      "sort_order": 41
-    },
-    {
       "id": "pendrive-4-in-1-kit",
       "name": "Pendrive 4 in 1 Kit",
       "set_type": "4 in 1",
