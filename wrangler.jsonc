@@ -12,7 +12,7 @@
     "run_worker_first": ["/api/*"]
   },
   "vars": {
-    "GITHUB_REPO": "boobesh2912/HEECART",
+    "GITHUB_REPO": "heecartai/Heecart",
     "GITHUB_BRANCH": "main"
   },
   // At most 5 login attempts per minute from one IP address.
