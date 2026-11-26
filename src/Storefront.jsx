@@ -1,13 +1,14 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { Check } from 'lucide-react';
 import { store } from './lib/store';
-import { minOrderQty } from './lib/pricing';
+import { minOrderQty, lowestPrice, formatINR } from './lib/pricing';
 import Header from './components/Header';
 import HomePage from './components/HomePage';
 import ShopPage from './components/ShopPage';
 import ProductPage from './components/ProductPage';
 import CartDrawer from './components/CartDrawer';
 import PolicyPage, { POLICIES } from './components/PolicyPage';
+import { applySeo, SITE_URL, SITE_NAME, DEFAULT_DESCRIPTION } from './lib/seo';
 import Footer from './components/Footer';
 import MobileNav from './components/MobileNav';
 import NotFound from './components/NotFound';
@@ -67,14 +68,57 @@ export default function Storefront({ route }) {
   const policy = POLICIES.find(p => `/${p.slug}` === path);
 
   useEffect(() => {
-    document.title = product
-      ? `${product.name} | Heecart Gifts and More`
-      : policy
-        ? `${policy.title} | Heecart Gifts and More`
-        : path === '/shop'
-          ? 'Shop corporate gifts | Heecart Gifts and More'
-        : 'Heecart Gifts and More | Premium Corporate Gifts, Chennai';
-  }, [product, policy, path]);
+    if (product) {
+      const low = lowestPrice(product);
+      const cat = store.categories.find(c => c.id === product.category);
+      const desc = `${product.name}${cat ? ` (${cat.name})` : ''}: ${String(product.description || '').slice(0, 120).trim()} Custom logo branding, bulk prices${low ? ` from ${formatINR(low)}` : ''}. Order on WhatsApp.`;
+      applySeo({
+        title: `${product.name} - Custom Corporate Gift Set | Heecart Chennai`,
+        description: desc,
+        path: path,
+        image: product.image,
+        jsonLd: {
+          '@context': 'https://schema.org',
+          '@type': 'Product',
+          name: product.name,
+          description: product.description,
+          image: [product.image, ...(product.gallery || [])].filter(Boolean).map(i => (i.startsWith('http') ? i : `${SITE_URL}${i}`)),
+          brand: { '@type': 'Brand', name: 'Heecart' },
+          category: cat ? cat.name : 'Corporate gifts',
+          ...(low ? { offers: { '@type': 'Offer', priceCurrency: 'INR', price: String(low), availability: 'https://schema.org/InStock', url: `${SITE_URL}${path}` } } : {}),
+        },
+      });
+    } else if (policy) {
+      applySeo({ title: `${policy.title} | ${SITE_NAME}`, path });
+    } else if (path === '/shop') {
+      applySeo({
+        title: 'Shop Corporate Gifts in Chennai - Combo Sets, Diaries, Bottles | Heecart',
+        description: 'Browse custom-branded corporate gift combos: pen and keychain sets, diary and pen combos, 3-in-1 and 4-in-1 sets, premium and welcome kits. Bulk pricing from 5 pieces.',
+        path,
+      });
+    } else if (path === '/') {
+      applySeo({
+        title: 'Corporate Gifts Chennai | Custom Branded Combo Gift Sets - Heecart',
+        path,
+        jsonLd: {
+          '@context': 'https://schema.org',
+          '@type': 'Store',
+          name: SITE_NAME,
+          url: SITE_URL,
+          logo: `${SITE_URL}/logo.png`,
+          image: `${SITE_URL}/products/catalog-cover.jpg`,
+          description: DEFAULT_DESCRIPTION,
+          telephone: `+${store.settings.whatsapp}`,
+          email: store.settings.email,
+          sameAs: store.settings.instagram ? [`https://www.instagram.com/${store.settings.instagram}`] : [],
+          address: { '@type': 'PostalAddress', streetAddress: store.settings.address, addressLocality: 'Chennai', addressRegion: 'Tamil Nadu', postalCode: '600005', addressCountry: 'IN' },
+          areaServed: 'IN',
+        },
+      });
+    } else {
+      applySeo({ title: `Page not found | ${SITE_NAME}`, path, noindex: true });
+    }
+  }, [product, policy, path, store]);
 
   const shared = { settings: store.settings, onAddToCart: addToCart };
 

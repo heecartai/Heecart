@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://heecart.heecart-ai.workers.dev/sitemap.xml
