@@ -69,7 +69,7 @@ async function login(request, env) {
 
 async function proxyGithub(request, env, path, search) {
   if (!ALLOWED_GITHUB_PATH.test(path)) return json({ error: 'Not allowed' }, 403);
-  const repo = env.GITHUB_REPO || 'boobesh2912/HEECART';
+  const repo = env.GITHUB_REPO || 'heecartai/Heecart';
   const res = await fetch(`https://api.github.com/repos/${repo}/${path}${search}`, {
     method: request.method,
     headers: {

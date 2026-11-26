@@ -26,7 +26,7 @@ The store manager only needs **a password**, not a GitHub account. The Cloudflar
 ### The GitHub token (one time)
 
 1. On GitHub: **Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token**.
-2. Name it `Heecart CRM`, choose an expiry, and set **Repository access** to "Only select repositories" → `boobesh2912/HEECART`.
+2. Name it `Heecart CRM`, choose an expiry, and set **Repository access** to "Only select repositories" → `heecartai/Heecart`.
 3. **Permissions → Repository permissions → Contents: Read and write.** Nothing else.
 4. Copy the `github_pat_…` value into the `GITHUB_TOKEN` secret. When it expires, make a new one and replace the secret.
 
