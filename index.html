@@ -17,9 +17,19 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <style>
+      .hc-splash{position:fixed;inset:0;display:grid;place-items:center;align-content:center;gap:22px;background:#fff8ec;font-family:Poppins,system-ui,sans-serif}
+      .hc-splash img{width:84px;height:84px;object-fit:contain;animation:hc-pulse 1.4s ease-in-out infinite}
+      .hc-splash b{font:600 28px "Dancing Script",cursive;color:#0d0d0d;letter-spacing:.5px}
+      .hc-bar{width:140px;height:4px;border-radius:4px;background:#ffe17f66;overflow:hidden}
+      .hc-bar i{display:block;width:40%;height:100%;border-radius:4px;background:#f5b301;animation:hc-slide 1.1s ease-in-out infinite}
+      @keyframes hc-pulse{0%,100%{transform:scale(1);opacity:.85}50%{transform:scale(1.08);opacity:1}}
+      @keyframes hc-slide{0%{transform:translateX(-100%)}100%{transform:translateX(250%)}}
+      @media (prefers-reduced-motion:reduce){.hc-splash img,.hc-bar i{animation:none}}
+    </style>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root"><div class="hc-splash" role="status" aria-label="Loading Heecart"><img src="/logo.png" alt="" /><b>Heecart</b><div class="hc-bar"><i></i></div></div></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>

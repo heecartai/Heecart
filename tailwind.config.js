@@ -29,6 +29,7 @@ export default {
         cream: '#fff8ec',
         whatsapp: '#25d366',
       },
+      keyframes: { hcslide: { '0%': { transform: 'translateX(-100%)' }, '100%': { transform: 'translateX(250%)' } } },
       fontFamily: {
         sans: ['Poppins', 'system-ui', '-apple-system', 'Segoe UI', 'Roboto', 'sans-serif'],
         script: ['"Dancing Script"', 'cursive'],
