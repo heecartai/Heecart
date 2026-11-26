@@ -1,0 +1,2708 @@
+{
+  "settings": {
+    "whatsapp": "919087778321",
+    "phone_display": "90877 78321",
+    "email": "heecartorders@gmail.com",
+    "address": "No 37, Ameen Zohra Complex, 3rd Floor, Pycrofts Road, Triplicane, Chennai - 600005",
+    "instagram": "heecart_com",
+    "announcement": "Custom branding on every gift · Bulk prices from 5 pieces · Pay easily by GPay / UPI",
+    "free_shipping_enabled": true,
+    "free_shipping_min": 0,
+    "offer_ends_at": "",
+    "trust_orders": "60,000+",
+    "trust_since": "2018"
+  },
+  "categories": [
+    {
+      "id": "pen-keychain",
+      "name": "Pen & Keychain Sets",
+      "sort_order": 1
+    },
+    {
+      "id": "diary-pen",
+      "name": "Diary & Pen Sets",
+      "sort_order": 2
+    },
+    {
+      "id": "3-in-1",
+      "name": "3 in 1 Combos",
+      "sort_order": 3
+    },
+    {
+      "id": "4-in-1",
+      "name": "4 in 1 Combos",
+      "sort_order": 4
+    },
+    {
+      "id": "premium-kits",
+      "name": "Premium Kits (5 in 1 & above)",
+      "sort_order": 5
+    },
+    {
+      "id": "welcome-kits",
+      "name": "Welcome Kits",
+      "sort_order": 6
+    }
+  ],
+  "coupons": [],
+  "products": [
+    {
+      "id": "pen-keychain-combo-1",
+      "name": "Pen Keychain Combo 1.0",
+      "set_type": "2 in 1",
+      "category": "pen-keychain",
+      "image": "/products/p02-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "label": "1 Pc",
+          "min": 1,
+          "price": 199
+        },
+        {
+          "label": "5 – 10 Pcs",
+          "min": 5,
+          "price": 150
+        },
+        {
+          "label": "30 – 50 Pcs",
+          "min": 30,
+          "price": 120
+        },
+        {
+          "label": "100 Pcs +",
+          "min": 100,
+          "price": 100
+        },
+        {
+          "label": "500+ Pcs",
+          "min": 500,
+          "price": 70
+        }
+      ],
+      "includes": [
+        "Metal pen",
+        "Metal keychain",
+        "Premium gift box"
+      ],
+      "description": "A sleek black metal pen and a polished rectangular keychain, presented in a striking black-and-gold box. Small price, big first impression. The easiest way to welcome new hires, delegates and channel partners.",
+      "tags": [],
+      "badge": "New",
+      "featured": false,
+      "active": true,
+      "sort_order": 1
+    },
+    {
+      "id": "pen-keychain-combo-2",
+      "name": "Pen Keychain Combo 2.0",
+      "set_type": "2 in 1",
+      "category": "pen-keychain",
+      "image": "/products/p02-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 230
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 180
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 150
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 130
+        }
+      ],
+      "includes": [
+        "Metal pen",
+        "Metal keychain",
+        "Premium gift box"
+      ],
+      "description": "Classic black and chrome, made to be used every day. The pen and keychain sit in a fitted matte-black gift box, ready to carry your logo into every meeting your clients walk into.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 2
+    },
+    {
+      "id": "pen-keychain-combo-3",
+      "name": "Pen Keychain Combo 3.0",
+      "set_type": "2 in 1",
+      "category": "pen-keychain",
+      "image": "/products/p02-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 210
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 160
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 130
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 110
+        }
+      ],
+      "includes": [
+        "Metal pen",
+        "Metal keychain",
+        "Premium gift box"
+      ],
+      "description": "A refined metal pen with a matching curved-metal keychain in a premium black box. A graceful thank-you for clients, dealers and teams, priced to make bulk gifting easy.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 3
+    },
+    {
+      "id": "gold-flake-pen-keychain",
+      "name": "Gold Flake Pen + Keychain",
+      "set_type": "2 in 1",
+      "category": "pen-keychain",
+      "image": "/products/p03-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 299
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 249
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 200
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 180
+        }
+      ],
+      "includes": [
+        "Gold flake metal pen with your company name",
+        "Metal keychain with your logo",
+        "Premium gift box"
+      ],
+      "description": "Gold-flake detailing that catches the light every time it's picked up. Your company name is engraved on the pen and your logo on the keychain, so your brand stays in their hand and on their keys long after the event.",
+      "tags": [],
+      "badge": "",
+      "featured": true,
+      "active": true,
+      "sort_order": 4
+    },
+    {
+      "id": "rose-gold-pen-keychain",
+      "name": "Rose Gold Pen + Keychain",
+      "set_type": "2 in 1",
+      "category": "pen-keychain",
+      "image": "/products/p03-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 289
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 239
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 190
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 170
+        }
+      ],
+      "includes": [
+        "Rose gold metal pen with your company name",
+        "Metal keychain with your logo",
+        "Premium gift box"
+      ],
+      "description": "Warm rose-gold accents on a deep black pen, paired with a leatherette keychain carrying your logo. Elegant and understated. Ideal for Women's Day, client meets and premium event kits.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 5
+    },
+    {
+      "id": "black-stylus-pen-keychain",
+      "name": "Black Stylus Pen + Keychain",
+      "set_type": "2 in 1",
+      "category": "pen-keychain",
+      "image": "/products/p03-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 279
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 229
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 180
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 160
+        }
+      ],
+      "includes": [
+        "Black stylus pen with your company name",
+        "Metal keychain with your logo",
+        "Premium gift box"
+      ],
+      "description": "Write on paper, tap on screens. This black stylus pen works on phones and tablets and comes with a logo keychain in a gift box. A modern, practical gift for teams and clients who live on their devices.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 6
+    },
+    {
+      "id": "diary-pen-combo-1",
+      "name": "Diary + Pen Combo 1.0",
+      "set_type": "2 in 1",
+      "category": "diary-pen",
+      "image": "/products/p04-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 499
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 400
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 350
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 320
+        }
+      ],
+      "includes": [
+        "Magnetic flap diary",
+        "Pen",
+        "Premium gift box"
+      ],
+      "description": "A soft tan leatherette diary with a polished round magnetic clasp and a matching pen. It feels expensive in the hand and looks beautiful on any desk, so your brand gets seen every working day.",
+      "tags": [],
+      "badge": "",
+      "featured": true,
+      "active": true,
+      "sort_order": 7
+    },
+    {
+      "id": "bamboo-kit",
+      "name": "Bamboo Kit",
+      "set_type": "2 in 1",
+      "category": "diary-pen",
+      "image": "/products/p04-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 499
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 400
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 350
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 320
+        }
+      ],
+      "includes": [
+        "Bamboo cover diary",
+        "Bamboo pen",
+        "Premium gift box"
+      ],
+      "description": "A natural bamboo-cover diary with a matching bamboo pen. Sustainable without compromising on style, and the right message for green initiatives, CSR events and eco-conscious clients.",
+      "tags": [
+        "eco"
+      ],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 8
+    },
+    {
+      "id": "round-clip-set",
+      "name": "Round Clip Set",
+      "set_type": "2 in 1",
+      "category": "diary-pen",
+      "image": "/products/p04-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 499
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 400
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 350
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 320
+        }
+      ],
+      "includes": [
+        "Diary with round magnetic clip",
+        "Metal pen",
+        "Premium gift box"
+      ],
+      "description": "An executive black diary with a silver round magnetic clip and a metal pen. Clean, professional and timeless: the kind of gift that stays on a director's desk all year.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 9
+    },
+    {
+      "id": "diary-pen-combo-2",
+      "name": "Diary + Pen Combo 2.0",
+      "set_type": "2 in 1",
+      "category": "diary-pen",
+      "image": "/products/p05-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 499
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 400
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 350
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 320
+        }
+      ],
+      "includes": [
+        "Tan leatherette diary",
+        "Pen",
+        "Premium gift box"
+      ],
+      "description": "Rich caramel leatherette with a brushed-metal clasp and a colour-matched pen. Warm, premium and instantly impressive the moment the box opens.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 10
+    },
+    {
+      "id": "cork-set",
+      "name": "Cork Set",
+      "set_type": "2 in 1",
+      "category": "diary-pen",
+      "image": "/products/p05-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 499
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 400
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 350
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 320
+        }
+      ],
+      "includes": [
+        "Cork accent diary",
+        "Cork pen",
+        "Premium gift box"
+      ],
+      "description": "A navy diary with a natural cork panel and a cork-trim pen. Eco-friendly, on-trend and a refreshing change from the usual leather diary.",
+      "tags": [
+        "eco"
+      ],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 11
+    },
+    {
+      "id": "softbound-magnet-notebook-kit",
+      "name": "Softbound Magnet Notebook Kit",
+      "set_type": "2 in 1",
+      "category": "diary-pen",
+      "image": "/products/p05-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 499
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 400
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 350
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 320
+        }
+      ],
+      "includes": [
+        "Softbound magnetic notebook",
+        "Metal pen",
+        "Premium gift box"
+      ],
+      "description": "A soft-touch notebook with a magnetic snap closure and a slim metal pen. Light to carry, a pleasure to write in, and smart enough for any boardroom.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 12
+    },
+    {
+      "id": "diary-pen-combo-3",
+      "name": "Diary + Pen Combo 3.0",
+      "set_type": "2 in 1",
+      "category": "diary-pen",
+      "image": "/products/p06-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 499
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 400
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 350
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 320
+        }
+      ],
+      "includes": [
+        "Tan leatherette diary",
+        "Pen",
+        "Premium gift box"
+      ],
+      "description": "Bold orange leatherette that stands out in every meeting, with a matching pen. For brands that want their gift noticed and remembered.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 13
+    },
+    {
+      "id": "diary-pen-combo-4",
+      "name": "Diary + Pen Combo 4.0",
+      "set_type": "2 in 1",
+      "category": "diary-pen",
+      "image": "/products/p06-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 499
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 400
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 350
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 320
+        }
+      ],
+      "includes": [
+        "Black diary with metal clip",
+        "Metal pen",
+        "Premium gift box"
+      ],
+      "description": "A classic black diary with a polished metal clip and a sleek pen. Professional, versatile and loved by every age group. A safe, stylish choice for big orders.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 14
+    },
+    {
+      "id": "diary-pen-combo-5",
+      "name": "Diary + Pen Combo 5.0",
+      "set_type": "2 in 1",
+      "category": "diary-pen",
+      "image": "/products/p06-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 499
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 400
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 350
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 320
+        }
+      ],
+      "includes": [
+        "Diary with round magnetic clip",
+        "Pen",
+        "Premium gift box"
+      ],
+      "description": "A textured grey diary with a round magnetic clasp and a black pen. Modern, minimal and quietly premium.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 15
+    },
+    {
+      "id": "diary-pen-combo-6",
+      "name": "Diary + Pen Combo 6.0",
+      "set_type": "2 in 1",
+      "category": "diary-pen",
+      "image": "/products/p07-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 499
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 400
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 350
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 320
+        }
+      ],
+      "includes": [
+        "Black diary with blue clip",
+        "Pen",
+        "Premium gift box"
+      ],
+      "description": "Deep green leatherette with a pop of blue on the clasp, paired with a black pen. A distinctive colour combination that feels thoughtful and fresh.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 16
+    },
+    {
+      "id": "diary-pen-combo-7",
+      "name": "Diary + Pen Combo 7.0",
+      "set_type": "2 in 1",
+      "category": "diary-pen",
+      "image": "/products/p07-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 499
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 400
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 350
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 320
+        }
+      ],
+      "includes": [
+        "Gold-edge textured diary",
+        "Gold metal pen",
+        "Premium gift box"
+      ],
+      "description": "A charcoal textured cover with gold-trimmed edges, a gold clip and a gold-accented pen. Luxury you can feel, made for leadership, VIP clients and award nights.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 17
+    },
+    {
+      "id": "round-keychain-pen",
+      "name": "Round Keychain + Pen",
+      "set_type": "2 in 1",
+      "category": "pen-keychain",
+      "image": "/products/p07-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 250
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 200
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 170
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 150
+        }
+      ],
+      "includes": [
+        "Round metal keychain",
+        "Metal pen",
+        "Premium gift box"
+      ],
+      "description": "A round metal keychain with a big engraving face, plus a smooth-writing metal pen. Your logo looks bold on the disc. A smart, budget-friendly pick for large teams and events.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 18
+    },
+    {
+      "id": "diary-bottle-pen-combo-1",
+      "name": "Diary Bottle Pen Combo 1.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p08-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 700
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 600
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 550
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 500
+        }
+      ],
+      "includes": [
+        "Diary with name plate",
+        "Steel bottle",
+        "Metal pen",
+        "Premium gift box"
+      ],
+      "description": "Our most-loved set. A black diary with an engraved name plate, a steel bottle carrying the recipient's name, and a metal pen, each one personalised. It doesn't feel like a corporate gift. It feels like it was made just for them.",
+      "tags": [],
+      "badge": "Most loved",
+      "featured": true,
+      "active": true,
+      "sort_order": 19
+    },
+    {
+      "id": "diary-bottle-pen-combo-2",
+      "name": "Diary Bottle Pen Combo 2.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p08-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 700
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 600
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 550
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 500
+        }
+      ],
+      "includes": [
+        "Diary",
+        "Steel bottle with handle",
+        "Metal pen",
+        "Premium gift box"
+      ],
+      "description": "A black diary, an insulated steel bottle with a carry loop and a metal pen in a premium box. Built for people on the move: sales teams, field staff and frequent travellers.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 20
+    },
+    {
+      "id": "diary-bottle-pen-combo-3",
+      "name": "Diary Bottle Pen Combo 3.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p08-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 700
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 600
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 550
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 500
+        }
+      ],
+      "includes": [
+        "Diary",
+        "Steel bottle",
+        "Metal pen",
+        "Premium gift box"
+      ],
+      "description": "A diary, a sports-cap steel bottle and a metal pen in a sleek black box. Everyday essentials, beautifully branded.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 21
+    },
+    {
+      "id": "diary-bottle-pen-combo-4",
+      "name": "Diary Bottle Pen Combo 4.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p09-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 700
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 600
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 550
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 500
+        }
+      ],
+      "includes": [
+        "Diary",
+        "Steel bottle",
+        "Metal pen",
+        "Premium gift box"
+      ],
+      "description": "An all-black diary, bottle and pen in a structured gift box. Minimal and premium, and a perfect default for employee kits.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 22
+    },
+    {
+      "id": "diary-bottle-pen-combo-5",
+      "name": "Diary Bottle Pen Combo 5.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p09-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 700
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 600
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 550
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 500
+        }
+      ],
+      "includes": [
+        "Red diary",
+        "Red steel bottle",
+        "Metal pen",
+        "Premium gift box"
+      ],
+      "description": "A bold red diary and red steel bottle with a matching pen. Festive, energetic and unforgettable, and a hit for Diwali, New Year and celebrations.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 23
+    },
+    {
+      "id": "bamboo-3-in-1-eco",
+      "name": "Bamboo 3 in 1 Eco",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p09-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 1200
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1000
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 900
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 800
+        }
+      ],
+      "includes": [
+        "Bamboo diary",
+        "Bamboo bottle",
+        "Bamboo pen",
+        "Premium gift box"
+      ],
+      "description": "A bamboo diary, bamboo-finish bottle and bamboo pen: a complete eco kit in warm natural wood. Sustainable gifting that still looks seriously premium.",
+      "tags": [
+        "eco"
+      ],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 24
+    },
+    {
+      "id": "diary-bottle-pen-combo-6",
+      "name": "Diary Bottle Pen Combo 6.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p10-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 800
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 700
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 650
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 600
+        }
+      ],
+      "includes": [
+        "World-map diary",
+        "Steel bottle",
+        "Metal pen",
+        "Premium gift box"
+      ],
+      "description": "A diary with a dotted world-map cover, a black steel bottle and a metal pen. Made for global teams, travel brands and anyone with big ambitions.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 25
+    },
+    {
+      "id": "diary-bottle-pen-combo-7",
+      "name": "Diary Bottle Pen Combo 7.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p10-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 749
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 620
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 570
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 520
+        }
+      ],
+      "includes": [
+        "White diary",
+        "White steel bottle",
+        "Metal pen",
+        "Premium gift box"
+      ],
+      "description": "A clean white diary, white steel bottle and silver pen. Bright and elegant, ideal for healthcare, wellness and modern brands.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 26
+    },
+    {
+      "id": "semi-cork-combo",
+      "name": "Semi Cork Combo",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p10-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 1100
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 900
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 800
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 750
+        }
+      ],
+      "includes": [
+        "Cork accent diary",
+        "Bottle with bamboo lid",
+        "Pen",
+        "Premium gift box"
+      ],
+      "description": "A black diary with a cork panel, a bottle with a bamboo lid and a cork-trim pen. Eco-luxe styling for brands that want to stand apart.",
+      "tags": [
+        "eco"
+      ],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 27
+    },
+    {
+      "id": "diary-bottle-pen-combo-8",
+      "name": "Diary Bottle Pen Combo 8.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p11-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 900
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 750
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 700
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 650
+        }
+      ],
+      "includes": [
+        "Orange diary with metal clip",
+        "Orange steel bottle",
+        "Pen",
+        "Premium gift box"
+      ],
+      "description": "A vibrant orange diary with a metal clasp, plus a matching orange bottle and pen. Joyful, energetic and guaranteed to brighten every desk.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 28
+    },
+    {
+      "id": "bottle-pen-keychain-1",
+      "name": "Bottle Pen Keychain 1.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p11-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 750
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 600
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 500
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 450
+        }
+      ],
+      "includes": [
+        "Steel bottle",
+        "Metal pen",
+        "Metal keychain",
+        "Premium gift box"
+      ],
+      "description": "A steel bottle, metal pen and metal keychain: three things people use every single day, all carrying your logo. Practical gifting that keeps your name in view.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 29
+    },
+    {
+      "id": "bottle-pen-keychain-2",
+      "name": "Bottle Pen Keychain 2.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p11-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 750
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 600
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 500
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 450
+        }
+      ],
+      "includes": [
+        "Steel bottle",
+        "Metal pen",
+        "Metal keychain",
+        "Premium gift box"
+      ],
+      "description": "A slim steel bottle, metal pen and keychain in a black box. Compact, useful and great value for big teams.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 30
+    },
+    {
+      "id": "diary-pen-keychain-1",
+      "name": "Diary Pen Keychain 1.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p12-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 599
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 500
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 450
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 420
+        }
+      ],
+      "includes": [
+        "Diary",
+        "Metal pen",
+        "Metal keychain",
+        "Premium gift box"
+      ],
+      "description": "A diary, metal pen and bottle-opener keychain in a black presentation box. A complete desk-to-pocket kit.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 31
+    },
+    {
+      "id": "diary-pen-keychain-2",
+      "name": "Diary Pen Keychain 2.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p12-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 599
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 500
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 450
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 420
+        }
+      ],
+      "includes": [
+        "Diary",
+        "Metal pen",
+        "Metal keychain",
+        "Premium gift box"
+      ],
+      "description": "A black diary with a blue magnetic clasp, a metal pen and a leatherette keychain. Smart, colourful and very giftable.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 32
+    },
+    {
+      "id": "diary-pen-keychain-3",
+      "name": "Diary Pen Keychain 3.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p12-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 599
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 500
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 450
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 420
+        }
+      ],
+      "includes": [
+        "Diary",
+        "Metal pen",
+        "Metal keychain",
+        "Premium gift box"
+      ],
+      "description": "A premium diary with a metal clip, a pen and a metal keychain in a structured box. An executive feel at a sensible price.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 33
+    },
+    {
+      "id": "diary-pen-keychain-4",
+      "name": "Diary Pen Keychain 4.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p13-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 599
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 500
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 450
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 420
+        }
+      ],
+      "includes": [
+        "Diary",
+        "Metal pen",
+        "Metal keychain",
+        "Premium gift box"
+      ],
+      "description": "A black diary with a round metal clasp, a pen and a metal keychain. A refined trio for managers and clients.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 34
+    },
+    {
+      "id": "diary-pen-keychain-5",
+      "name": "Diary Pen Keychain 5.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p13-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 599
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 500
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 450
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 420
+        }
+      ],
+      "includes": [
+        "Cork diary",
+        "Bamboo pen",
+        "Metal keychain",
+        "Premium gift box"
+      ],
+      "description": "A full cork diary, bamboo pen and metal keychain. Earthy, eco-friendly and refreshingly different.",
+      "tags": [
+        "eco"
+      ],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 35
+    },
+    {
+      "id": "diary-pen-keychain-6",
+      "name": "Diary Pen Keychain 6.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p13-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 599
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 500
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 450
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 420
+        }
+      ],
+      "includes": [
+        "White diary",
+        "Metal pen",
+        "Metal keychain",
+        "Premium gift box"
+      ],
+      "description": "A crisp white diary, metal pen and metal bottle-opener keychain. Fresh, light and modern.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 36
+    },
+    {
+      "id": "diary-pen-keychain-7",
+      "name": "Diary Pen Keychain 7.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p14-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 599
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 500
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 450
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 420
+        }
+      ],
+      "includes": [
+        "White & cork diary",
+        "Cork pen",
+        "Cork keychain",
+        "Premium gift box"
+      ],
+      "description": "A white-and-cork diary with a cork pen and cork keychain. A designer eco set that looks beautiful in photos.",
+      "tags": [
+        "eco"
+      ],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 37
+    },
+    {
+      "id": "diary-pen-keychain-8",
+      "name": "Diary Pen Keychain 8.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p14-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 599
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 500
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 450
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 420
+        }
+      ],
+      "includes": [
+        "Black & cork diary",
+        "Pen",
+        "Cork keychain",
+        "Premium gift box"
+      ],
+      "description": "A black-and-cork diary, pen and cork keychain. Bold contrast with a natural texture.",
+      "tags": [
+        "eco"
+      ],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 38
+    },
+    {
+      "id": "diary-pen-keychain-9",
+      "name": "Diary Pen Keychain 9.0",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p14-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 800
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 700
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 600
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 580
+        }
+      ],
+      "includes": [
+        "Premium diary with metal clip",
+        "Metal pen",
+        "Metal keychain",
+        "Premium gift box"
+      ],
+      "description": "Our premium diary trio: a plush leatherette diary with a metal clasp, a heavy metal pen and a gold-tone keychain. For the gifts that need to say 'you matter'.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 39
+    },
+    {
+      "id": "diary-pen-keychain-bottle-1",
+      "name": "Diary Pen Keychain Bottle 1.0",
+      "set_type": "4 in 1",
+      "category": "4-in-1",
+      "image": "/products/p15-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 999
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 800
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 750
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 700
+        }
+      ],
+      "includes": [
+        "Diary",
+        "Metal pen",
+        "Metal keychain",
+        "Steel bottle",
+        "Premium gift box"
+      ],
+      "description": "A diary, pen, keychain and steel bottle in one premium box. Everything a professional reaches for, all with your logo.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 40
+    },
+    {
+      "id": "diary-pen-keychain-bottle-2",
+      "name": "Diary Pen Keychain Bottle 2.0",
+      "set_type": "4 in 1",
+      "category": "4-in-1",
+      "image": "/products/p15-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 699
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 600
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 550
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 530
+        }
+      ],
+      "includes": [
+        "Diary",
+        "Metal pen",
+        "Metal keychain",
+        "Card holder",
+        "Premium gift box"
+      ],
+      "description": "A diary, pen, keychain and sleek card holder. Built for networking and for leaving a lasting impression.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 41
+    },
+    {
+      "id": "pendrive-4-in-1-kit",
+      "name": "Pendrive 4 in 1 Kit",
+      "set_type": "4 in 1",
+      "category": "4-in-1",
+      "image": "/products/p15-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 1500
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1300
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 1100
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 1000
+        }
+      ],
+      "includes": [
+        "Diary",
+        "Metal pen",
+        "Pendrive",
+        "Steel bottle",
+        "Premium gift box"
+      ],
+      "description": "A diary, metal pen, branded pendrive and steel bottle. The tech-smart executive kit for conferences, training programmes and onboarding.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 42
+    },
+    {
+      "id": "bamboo-combo-set-1",
+      "name": "Bamboo Combo Set 1.0",
+      "set_type": "4 in 1",
+      "category": "4-in-1",
+      "image": "/products/p16-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 699
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 550
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 500
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 480
+        }
+      ],
+      "includes": [
+        "Bamboo diary",
+        "Bamboo card holder",
+        "Bamboo pen",
+        "Keychain",
+        "Premium gift box"
+      ],
+      "description": "A bamboo diary, bamboo card holder, bamboo pen and keychain. A fully sustainable set your clients will be proud to show off.",
+      "tags": [
+        "eco"
+      ],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 43
+    },
+    {
+      "id": "bamboo-combo-set-2",
+      "name": "Bamboo Combo Set 2.0",
+      "set_type": "4 in 1",
+      "category": "4-in-1",
+      "image": "/products/p16-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 1200
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1000
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 900
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 850
+        }
+      ],
+      "includes": [
+        "Bamboo diary",
+        "Bamboo bottle",
+        "Bamboo pen",
+        "Keychain",
+        "Premium gift box"
+      ],
+      "description": "A bamboo diary, bamboo bottle, bamboo pen and keychain. Natural, elegant and kind to the planet.",
+      "tags": [
+        "eco"
+      ],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 44
+    },
+    {
+      "id": "4-in-1-combo-set",
+      "name": "4 in 1 Combo Set",
+      "set_type": "4 in 1",
+      "category": "4-in-1",
+      "image": "/products/p16-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 699
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 600
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 550
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 500
+        }
+      ],
+      "includes": [
+        "Diary",
+        "Card holder",
+        "Keychain",
+        "Pen",
+        "Premium gift box"
+      ],
+      "description": "A black diary, metal card holder, keychain and pen. A classic four-piece executive set at a smart price.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 45
+    },
+    {
+      "id": "5-in-1-combo-set-1",
+      "name": "5 in 1 Combo Set 1.0",
+      "set_type": "5 in 1",
+      "category": "premium-kits",
+      "image": "/products/p17-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 1300
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1100
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 950
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 900
+        }
+      ],
+      "includes": [
+        "Diary",
+        "Steel bottle",
+        "Tumbler",
+        "Metal pen",
+        "Keychain"
+      ],
+      "description": "A diary, steel bottle, travel tumbler, metal pen and keychain. A generous five-piece set that turns any desk into a premium workspace.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 46
+    },
+    {
+      "id": "5-in-1-combo-set-2",
+      "name": "5 in 1 Combo Set 2.0",
+      "set_type": "5 in 1",
+      "category": "premium-kits",
+      "image": "/products/p17-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 1250
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1050
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 900
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 850
+        }
+      ],
+      "includes": [
+        "Diary with metal clip",
+        "Ceramic mug",
+        "Steel bottle",
+        "Metal pen",
+        "Keychain"
+      ],
+      "description": "A diary, ceramic mug, steel bottle, pen and keychain. From morning coffee to evening meetings, your brand is part of their whole day.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 47
+    },
+    {
+      "id": "5-in-1-combo-set-3",
+      "name": "5 in 1 Combo Set 3.0",
+      "set_type": "5 in 1",
+      "category": "premium-kits",
+      "image": "/products/p17-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 1250
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1050
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 900
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 850
+        }
+      ],
+      "includes": [
+        "Premium notebook",
+        "Card holder",
+        "Keychain",
+        "Premium metal pen",
+        "Water bottle"
+      ],
+      "description": "A premium notebook, card holder, keychain, metal pen and water bottle. The complete corporate essentials kit in a luxury presentation box.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 48
+    },
+    {
+      "id": "5-in-1-combo-set-4",
+      "name": "5 in 1 Combo Set 4.0 (Velvet Bottle Combo)",
+      "set_type": "5 in 1",
+      "category": "premium-kits",
+      "image": "/products/p18-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 1400
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1200
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 1000
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 950
+        }
+      ],
+      "includes": [
+        "Diary with metal clip",
+        "Velvet-finish bottle",
+        "Card holder",
+        "Metal pen",
+        "Keychain"
+      ],
+      "description": "A velvet-finish bottle, metal-clasp diary, card holder, pen and keychain. Soft-touch luxury that feels as good as it looks.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 49
+    },
+    {
+      "id": "5-in-1-combo-set-5",
+      "name": "5 in 1 Combo Set 5.0",
+      "set_type": "5 in 1",
+      "category": "premium-kits",
+      "image": "/products/p18-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 1100
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 900
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 800
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 750
+        }
+      ],
+      "includes": [
+        "Bamboo diary",
+        "Glass bottle with jute sleeve",
+        "Bamboo card holder",
+        "Bamboo pen",
+        "Bamboo keychain"
+      ],
+      "description": "A glass bottle with a jute sleeve, bamboo diary, bamboo card holder, pen and keychain. Eco gifting at its most elegant.",
+      "tags": [
+        "eco"
+      ],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 50
+    },
+    {
+      "id": "executive-kit-1",
+      "name": "Executive Kit 1.0",
+      "set_type": "5 in 1",
+      "category": "premium-kits",
+      "image": "/products/p18-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 1200
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1000
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 850
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 800
+        }
+      ],
+      "includes": [
+        "Laptop sleeve bag",
+        "Tumbler",
+        "Diary",
+        "Pen",
+        "Keychain"
+      ],
+      "description": "A laptop sleeve bag, travel tumbler, diary, pen and keychain. Everything your team needs for the office and the road, branded and ready to go.",
+      "tags": [],
+      "badge": "",
+      "featured": true,
+      "active": true,
+      "sort_order": 51
+    },
+    {
+      "id": "6-in-1-combo-set-1",
+      "name": "6 in 1 Combo Set 1.0",
+      "set_type": "6 in 1",
+      "category": "premium-kits",
+      "image": "/products/p19-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 1500
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1250
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 1050
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 1000
+        }
+      ],
+      "includes": [
+        "Diary",
+        "Ceramic mug",
+        "Steel bottle",
+        "Card holder",
+        "Metal pen",
+        "Keychain"
+      ],
+      "description": "A diary, ceramic mug, steel bottle, card holder, pen and keychain. A six-piece showstopper for leadership and key clients.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 52
+    },
+    {
+      "id": "6-in-1-combo-set-2",
+      "name": "6 in 1 Combo Set 2.0",
+      "set_type": "6 in 1",
+      "category": "premium-kits",
+      "image": "/products/p19-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 1999
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1700
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 1500
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 1350
+        }
+      ],
+      "includes": [
+        "Cork laptop bag",
+        "Cork diary",
+        "Steel bottle",
+        "Card holder",
+        "Pen",
+        "Keychain"
+      ],
+      "description": "A cork-accent laptop bag with a diary, bottle, card holder, pen and keychain. Stylish, sustainable and seriously useful.",
+      "tags": [
+        "eco"
+      ],
+      "badge": "",
+      "featured": true,
+      "active": true,
+      "sort_order": 53
+    },
+    {
+      "id": "6-in-1-combo-set-3",
+      "name": "6 in 1 Combo Set 3.0",
+      "set_type": "6 in 1",
+      "category": "premium-kits",
+      "image": "/products/p19-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 2200
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1900
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 1700
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 1550
+        }
+      ],
+      "includes": [
+        "Tan leatherette laptop bag",
+        "Diary",
+        "Steel bottle",
+        "Card holder",
+        "Pen",
+        "Keychain"
+      ],
+      "description": "A tan leatherette laptop bag, diary, bottle, card holder, pen and keychain. Boardroom-ready luxury for your most important people.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 54
+    },
+    {
+      "id": "7-in-1-combo-set-1",
+      "name": "7 in 1 Executive Combo Kit",
+      "set_type": "7 in 1",
+      "category": "premium-kits",
+      "image": "/products/p20-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 1500
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1250
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 1050
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 1000
+        }
+      ],
+      "includes": [
+        "Laptop bag",
+        "Diary",
+        "Steel bottle",
+        "Tumbler",
+        "Card holder",
+        "Pen",
+        "Keychain"
+      ],
+      "description": "A laptop bag, diary, steel bottle, tumbler, card holder, pen and keychain. Our most complete executive kit, and every piece can carry a name or logo.",
+      "tags": [],
+      "badge": "",
+      "featured": true,
+      "active": true,
+      "sort_order": 55
+    },
+    {
+      "id": "eco-premium-set",
+      "name": "Eco Premium Set",
+      "set_type": "7 in 1",
+      "category": "premium-kits",
+      "image": "/products/p20-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 2200
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1900
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 1700
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 1550
+        }
+      ],
+      "includes": [],
+      "description": "A seven-piece set built around a canvas laptop bag, with bamboo and jute accessories. Natural textures and a premium finish that make it clear your brand cares.",
+      "tags": [
+        "eco"
+      ],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 56
+    },
+    {
+      "id": "cork-attack-combo",
+      "name": "Cork Attack Combo",
+      "set_type": "5 in 1",
+      "category": "premium-kits",
+      "image": "/products/p20-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 2000
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1700
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 1500
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 1300
+        }
+      ],
+      "includes": [
+        "Cork laptop bag",
+        "Cork diary",
+        "Steel bottle",
+        "Pen",
+        "Keychain"
+      ],
+      "description": "A black-and-cork laptop bag, cork diary, steel bottle, pen and keychain. Bold, eco-chic and impossible to ignore.",
+      "tags": [
+        "eco"
+      ],
+      "badge": "",
+      "featured": true,
+      "active": true,
+      "sort_order": 57
+    },
+    {
+      "id": "bamboo-eco-attack",
+      "name": "Bamboo Eco Attack",
+      "set_type": "5 in 1",
+      "category": "premium-kits",
+      "image": "/products/p21-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 1299
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1000
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 900
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 850
+        }
+      ],
+      "includes": [
+        "Laptop bag",
+        "Glass bottle with jute sleeve",
+        "Bamboo notebook",
+        "Bamboo pen",
+        "Bamboo keychain"
+      ],
+      "description": "A canvas laptop bag, glass bottle with a jute sleeve, bamboo notebook, bamboo pen and bamboo keychain. Our signature eco kit.",
+      "tags": [
+        "eco"
+      ],
+      "badge": "",
+      "featured": true,
+      "active": true,
+      "sort_order": 58
+    },
+    {
+      "id": "economy-blue-attack-combo",
+      "name": "Economy Blue Attack Combo",
+      "set_type": "4 in 1",
+      "category": "4-in-1",
+      "image": "/products/p21-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 599
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 500
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 450
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 430
+        }
+      ],
+      "includes": [
+        "Blue laptop sleeve",
+        "Blue diary",
+        "Blue pen",
+        "Keychain"
+      ],
+      "description": "A blue laptop sleeve with a matching diary, pen and keychain. A coordinated, colourful kit for large teams on a budget.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 59
+    },
+    {
+      "id": "economy-combo-set",
+      "name": "Economy Combo Set",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p21-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 450
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 400
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 350
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 320
+        }
+      ],
+      "includes": [
+        "Diary",
+        "Pen",
+        "Canvas tote bag"
+      ],
+      "description": "A diary, pen and canvas tote bag. Simple, useful and great value for events, seminars and large teams.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 60
+    },
+    {
+      "id": "welcome-kit-1",
+      "name": "Welcome Kit 1.0",
+      "set_type": "5 in 1",
+      "category": "welcome-kits",
+      "image": "/products/p22-1.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 2500
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 2300
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 2100
+        }
+      ],
+      "includes": [],
+      "description": "Make day one unforgettable. A complete onboarding bundle built around a laptop backpack. Tell us your team size and we'll tailor the items to your budget. Available from 5 pieces.",
+      "tags": [],
+      "badge": "Bulk only",
+      "featured": true,
+      "active": true,
+      "sort_order": 61
+    },
+    {
+      "id": "welcome-kit-2",
+      "name": "Welcome Kit 2.0",
+      "set_type": "4 in 1",
+      "category": "welcome-kits",
+      "image": "/products/p22-2.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 1500
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 1300
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 1200
+        }
+      ],
+      "includes": [],
+      "description": "A backpack joining kit with a diary, mug, bottle and accessories, so new hires feel at home from the first hour. Available from 5 pieces.",
+      "tags": [],
+      "badge": "Bulk only",
+      "featured": false,
+      "active": true,
+      "sort_order": 62
+    },
+    {
+      "id": "combo-sets",
+      "name": "Combo Sets",
+      "set_type": "3 in 1",
+      "category": "3-in-1",
+      "image": "/products/p22-3.jpg",
+      "gallery": [],
+      "tiers": [
+        {
+          "min": 1,
+          "label": "1 Pc",
+          "price": 999
+        },
+        {
+          "min": 5,
+          "label": "5 – 10 Pcs",
+          "price": 800
+        },
+        {
+          "min": 30,
+          "label": "30 – 50 Pcs",
+          "price": 750
+        },
+        {
+          "min": 100,
+          "label": "100 Pcs +",
+          "price": 700
+        }
+      ],
+      "includes": [
+        "Diary",
+        "Steel bottle",
+        "Pen",
+        "Premium gift box"
+      ],
+      "description": "A diary, steel bottle and pen in coordinated colours: black, blue or red. Pick the colour that matches your brand and tell us on WhatsApp.",
+      "tags": [],
+      "badge": "",
+      "featured": false,
+      "active": true,
+      "sort_order": 63
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  // Cloudflare Workers config. The site is built into ./dist by `npm run build`;
+  // worker/index.js serves it and handles the CRM's /api routes.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "heecart",
+  "main": "worker/index.js",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*"]
+  },
+  "vars": {
+    "GITHUB_REPO": "boobesh2912/HEECART",
+    "GITHUB_BRANCH": "main"
+  },
+  // At most 5 login attempts per minute from one IP address.
+  "ratelimits": [
+    { "name": "LOGIN_LIMITER", "namespace_id": "1001", "simple": { "limit": 5, "period": 60 } }
+  ],
+  "observability": { "enabled": true }
+}
